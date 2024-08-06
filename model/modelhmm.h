@@ -18,6 +18,7 @@
 #define INITIAL_PROB_SAME_CAT 0.9999
 
 using namespace std;
+using byte = std::byte;
 
 class PhyloHmm;
 

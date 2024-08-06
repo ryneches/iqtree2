@@ -1,6 +1,7 @@
 #include "substitution.h"
 
 using namespace std;
+using byte = std::byte;
 
 Substitution::Substitution(const std::string& sub_str, Alignment* const aln, const int& seq_length)
 {

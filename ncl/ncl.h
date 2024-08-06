@@ -66,6 +66,7 @@
 #endif
 #include <vector>
 using namespace std;
+using byte = std::byte;
 
 #if defined(__MWERKS__)
 #	if __ide_target("Simple-Win Release") || __ide_target("Phorest-Mac-Release")

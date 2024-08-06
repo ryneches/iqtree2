@@ -26,6 +26,7 @@
 #include "utils/tools.h"
 #include "mtreeset.h"
 using namespace std;
+using byte = std::byte;
 
 /*********************************************
 	class MTree

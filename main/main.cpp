@@ -72,6 +72,7 @@
 #endif
 
 using namespace std;
+using byte = std::byte;
 
 inline void separator(ostream &out, int type = 0) {
     switch (type) {

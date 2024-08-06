@@ -63,6 +63,7 @@
 //#include "gradient.h"
 
 using namespace std;
+using byte = std::byte;
 
 // Function to access the L-BFGS-B function
 // 1. int n : The number of the variables

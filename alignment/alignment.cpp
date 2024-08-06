@@ -28,6 +28,7 @@
 
 
 using namespace std;
+using byte = std::byte;
 using namespace Eigen;
 
 char symbols_protein[] = "ARNDCQEGHILKMFPSTWYVX"; // X for unknown AA

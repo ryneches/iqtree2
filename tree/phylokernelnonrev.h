@@ -24,6 +24,7 @@
 //#include <thread>
 
 using namespace std;
+using byte = std::byte;
 
 
 

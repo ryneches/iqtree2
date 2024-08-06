@@ -4,6 +4,7 @@
 #include <string>
 
 using namespace std;
+using byte = std::byte;
 
 // Calculates the RF distance between two trees
 int calculate_RF_distance(const string& tree1, const string& tree2);

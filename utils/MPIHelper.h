@@ -39,6 +39,7 @@
 #define LOGL_CUTOFF_TAG 5 // send logl_cutoff for ultrafast bootstrap
 
 using namespace std;
+using byte = std::byte;
 
 class MPIHelper {
 public:

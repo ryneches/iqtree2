@@ -27,6 +27,7 @@
 #include "utils/checkpoint.h"
 
 using namespace std;
+using byte = std::byte;
 
 class PhyloTree;
 

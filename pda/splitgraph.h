@@ -36,6 +36,7 @@
 class MTreeSet;
 
 using namespace std;
+using byte = std::byte;
 
 /**
 SplitGraph class
