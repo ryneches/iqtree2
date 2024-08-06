@@ -18,7 +18,6 @@
 #include "tools.h"
 
 using namespace std;
-using byte = std::byte;
 
 // several useful declaration to save to or restore from a checkpoint
 #define CKP_SAVE(var) checkpoint->put(#var, var)
