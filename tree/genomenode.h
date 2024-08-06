@@ -15,7 +15,6 @@
 #include <stdlib.h>
 #include "utils/tools.h"
 using namespace std;
-using byte = std::byte;
 
 /*--------------------------------------------------------------*/
 class GenomeNode;
