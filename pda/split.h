@@ -28,7 +28,6 @@
 #include "nclextra/msplitsblock.h"
 
 using namespace std;
-using byte = std::byte;
 
 
 const int UINT_BITS = sizeof(UINT) * 8;
