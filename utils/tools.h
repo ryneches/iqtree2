@@ -132,7 +132,6 @@ inline void _my_assert(const char* expression, const char *func, const char* fil
 #endif
 
 using namespace std;
-using byte = std::byte;
 
 
 #if	defined(USE_HASH_MAP) && GCC_VERSION < 40300 && !defined(_MSC_VER) && !defined(__clang__)
