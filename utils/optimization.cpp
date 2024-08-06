@@ -19,6 +19,7 @@
 
 
 using namespace std;
+using byte = std::byte;
 
 const double ERROR_X = 1.0e-4;
 

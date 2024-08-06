@@ -41,6 +41,7 @@
 #include "alignment/sequence.h"
 
 using namespace std;
+using byte = std::byte;
 
 /*--------------------------------------------------------------*/
 

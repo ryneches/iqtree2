@@ -11,6 +11,7 @@
 #include "utils/timeutil.h"
 #include <queue>
 using namespace std;
+using byte = std::byte;
 
 /**
 A Genome Tree to present a genome by genome entry (each is a set of sites)

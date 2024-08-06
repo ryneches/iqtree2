@@ -13,6 +13,7 @@
 #define GRAPH_H_
 
 using namespace std;
+using byte = std::byte;
 
 class Graph
 {

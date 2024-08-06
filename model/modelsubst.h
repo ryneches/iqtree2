@@ -19,6 +19,7 @@
 #include "phylo-yaml/statespace.h"
 
 using namespace std;
+using byte = std::byte;
 
 const char OPEN_BRACKET = '{';
 const char CLOSE_BRACKET = '}';

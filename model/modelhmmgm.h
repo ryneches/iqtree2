@@ -14,6 +14,7 @@
 #define MAX_VALUE 10000
 
 using namespace std;
+using byte = std::byte;
 
 class PhyloHmm;
 

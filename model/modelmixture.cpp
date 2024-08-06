@@ -19,6 +19,7 @@
 #include "modelpomomixture.h"
 
 using namespace std;
+using byte = std::byte;
 
 const char* builtin_mixmodels_definition = R"(
 #nexus

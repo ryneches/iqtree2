@@ -26,6 +26,7 @@
 #include "tools.h"
 
 using namespace std;
+using byte = std::byte;
 
 EigenDecomposition::EigenDecomposition()
 {

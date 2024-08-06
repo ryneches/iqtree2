@@ -5,6 +5,7 @@
 #include "tree/genometree.h"
 
 using namespace std;
+using byte = std::byte;
 
 class Sequence {
 public:

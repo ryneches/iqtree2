@@ -14,6 +14,7 @@
 #include "utils/optimization.h"
 
 using namespace std;
+using byte = std::byte;
 
 // compute the log of dotproduct of the logorithm arrays
 inline double logDotProd(double* ln_x, double* ln_y, int n) {

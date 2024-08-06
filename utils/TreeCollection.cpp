@@ -6,6 +6,7 @@
 #include "MPIHelper.h"
 
 using namespace std;
+using byte = std::byte;
 
 TreeCollection::TreeCollection(vector<string>& trees, vector<double>& scores, vector<int> &sourceProcID) {
     ASSERT(trees.size() == scores.size());
